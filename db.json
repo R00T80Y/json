@@ -88,6 +88,7 @@
     {"name":"Ярославская область"}
   ],
   "profile": {
-    "name": "typicode"
+    "db": "typicode",
+    "url": "https://www.avito.ru/shops"
   }
 }
