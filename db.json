@@ -1,1 +1,9 @@
-[{"people":[{"name":"John"},{"name":"Molly"}]}]
+{
+  "people":[
+    {"name":"John"},
+    {"name":"Molly"}
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
