@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Anonymous",
+      "password": "anonymous",
+      "slug": "anonymous"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "HTML",
+      "slug": "html"
+    },
+    {
+      "id": 2,
+      "title": "CSS",
+      "slug": "css"
+    },
+    {
+      "id": 3,
+      "title": "JavaScript",
+      "slug": "javascript"
+    },
+    {
+      "id": 4,
+      "title": "Plugins",
+      "slug": "plugin"
+    },
+    {
+      "id": 5,
+      "title": "Other",
+      "slug": "other"
+    },
+    {
+      "id": 6,
+      "title": "Terminal",
+      "slug": "terminal"
+    }
+  ]
+}
